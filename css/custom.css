@@ -1,0 +1,150 @@
+body {
+	background-color: #F5F5F1;
+	overflow-y: scroll;
+	overflow-x: hidden;
+}
+#ulises-menu.navbar-default .navbar-brand {
+    color: rgba(119, 119, 119, 1);
+}
+#ulises-menu.navbar-default {
+    font-size: 19px;
+    background-color: rgba(255, 255, 255, 1);
+    border-width: 1px;
+    border-radius: 0px;
+}
+#ulises-menu.navbar-default .navbar-nav>li>a {
+    /*color: rgba(119, 119, 119, 1);*/
+    color: #007FEB;
+    background-color: rgba(255, 255, 255, 1);
+}
+#ulises-menu.navbar-default .navbar-nav>li>a:hover,
+#ulises-menu.navbar-default .navbar-nav>li>a:focus {
+    color: rgba(51, 51, 51, 1);
+    background-color: rgba(248, 248, 248, 0);
+}
+#ulises-menu.navbar-default .navbar-nav>.active>a,
+#ulises-menu.navbar-default .navbar-nav>.active>a:hover,
+#ulises-menu.navbar-default .navbar-nav>.active>a:focus {
+    color: white;
+    background-color: #007FEB;
+
+}
+#ulises-menu.navbar-default .navbar-toggle {
+    border-color: #57bef2;
+}
+#ulises-menu.navbar-default .navbar-toggle:hover,
+#ulises-menu.navbar-default .navbar-toggle:focus {
+    background-color: #57bef2;
+}
+#ulises-menu.navbar-default .navbar-toggle .icon-bar {
+    background-color: #57bef2;
+}
+#ulises-menu.navbar-default .navbar-toggle:hover .icon-bar,
+#ulises-menu.navbar-default .navbar-toggle:focus .icon-bar {
+    background-color: #ffffff;
+}
+
+.divider-vertical {
+    height: 40px;
+    margin: 0 9px;
+    border-left: 1px solid #F2F2F2;
+    border-right: 1px solid #FFF;
+}
+
+#mariposa {
+	width:70%;
+	margin-left:20%;
+}
+
+#marca_grupo {
+	margin-top:30%;
+	color: #3FD4FA;
+	
+}
+
+#marca {
+	font-family: 'Abril Fatface', cursive;
+	font-size: 100px;
+	margin-left:-30%;
+}
+
+#marca_1 {
+
+	font-family: 'Abril Fatface', cursive;
+	font-size: 140px;
+	margin-left: 10%;
+	margin-top: -10%;
+}
+
+#marca_2 {
+	font-family: 'Abril Fatface', cursive;
+	font-size: 50px;
+	margin-left: 43%;
+	margin-top: -3%;
+}
+
+#footer {
+	margin-top:5%;
+	font-family: 'Slabo 27px', serif;
+	text-align: center;
+}
+
+.social-btns {
+	text-align: center;
+	background-color: white;
+    position: fixed;
+    bottom: 0px;
+    right: 0px; 
+}
+
+#titulo {
+	color: white;
+    background-color: #3FD4FA;
+    font-family: 'Abril Fatface', cursive;
+	font-size: 40px;
+}
+
+#servicios_grupo {
+    text-align: center;
+    margin: 80px auto;
+}
+
+#servicios_grupo .container {
+	margin-top: 25px;
+}
+
+#oficinas {
+	border-right-style: solid;
+    border-width: 5px;
+}
+
+#mapa {
+	
+}
+
+#contacto_grupo {
+/*	margin-top: 100px;
+	margin-left: 40px;*/
+}
+
+.contacto_item{
+	margin-top: 20px;
+}
+
+#map {
+   width: 50%;
+   height: 50%;
+   background-color: #F5F5F1;
+   margin-left: 10%;
+   margin-top: 50px;
+ }
+ 
+ img {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+.panel-default>.panel-heading {
+	background-color: #3FD4FA;
+	color: white;
+}
