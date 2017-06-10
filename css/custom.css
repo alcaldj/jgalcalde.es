@@ -84,7 +84,7 @@ body {
 }
 
 #footer {
-	margin-top:5%;
+	margin-top:3%;
 	font-family: 'Slabo 27px', serif;
 	text-align: center;
 }
@@ -97,6 +97,13 @@ body {
     right: 0px; 
 }
 
+.logo {
+	text-align: center;
+	/*background-color: white;*/
+    position: fixed;
+    bottom: 0px;
+    left: 0px; 
+}
 #titulo {
 	color: white;
     background-color: #3FD4FA;
